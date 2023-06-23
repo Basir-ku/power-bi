@@ -13,6 +13,8 @@ This repo contains Dashboards
 <img width="1002" alt="Screenshot 2023-06-21 at 23 10 58" src="https://github.com/Basir-ku/power-bi/assets/123528497/1fae3716-bb32-41a6-8dff-7ed0216aa6fc">
 <img width="1002" alt="Screenshot 2023-06-21 at 23 22 24" src="https://github.com/Basir-ku/power-bi/assets/123528497/acf98fee-7242-46ad-be96-daad5b71d74e">
 <img width="1002" alt="Screenshot 2023-06-23 at 01 15 01" src="https://github.com/Basir-ku/power-bi/assets/123528497/4b80bada-12a1-4c16-890a-5c32a9979469">
+<img width="1002" alt="Screenshot 2023-06-23 at 01 59 58" src="https://github.com/Basir-ku/power-bi/assets/123528497/4c33d2aa-7859-467f-8d92-ae5fe9f8d8d8">
+
 
 
 
